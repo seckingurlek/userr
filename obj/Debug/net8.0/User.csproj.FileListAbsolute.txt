@@ -259,3 +259,4 @@ C:\Users\90534\source\repos\User\User\bin\Debug\net8.0\runtimes\win-x64\native\M
 C:\Users\90534\source\repos\User\User\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 C:\Users\90534\source\repos\User\User\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
 C:\Users\90534\source\repos\User\User\obj\Debug\net8.0\User.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\90534\source\repos\User\User\obj\Debug\net8.0\User.sourcelink.json
